@@ -40,9 +40,9 @@ export default function Header() {
 
     </header>
       <div className="text-center">
-  <Link className="" href="https://lin.ee/JwrDPgA">
+  <Link className="btn btn-info" href="https://lin.ee/JwrDPgA">
     
-    <img src="/line.gif" alt="Favicon" width={100} />
+      ติดต่อสอบถาม
     </Link>
           </div>
 <section>

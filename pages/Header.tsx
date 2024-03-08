@@ -42,7 +42,7 @@ export default function Header() {
       <div className="text-center">
   <Link className="" href="https://lin.ee/JwrDPgA">
     
-    <img src="/line.gif" alt="Favicon" width="150px" />
+    <img src="/line.gif" alt="Favicon" width={100} />
     </Link>
           </div>
 <section>

@@ -42,7 +42,7 @@ export default function Header() {
       <div className="text-center">
   <Link className="btn btn-info" href="https://lin.ee/JwrDPgA">
     
-      ติดต่อสอบถาม
+      แอดLINEติดต่อสอบถาม
     </Link>
           </div>
 <section>
